@@ -28,6 +28,7 @@ and analyze the scan reports to identify exposed services, open ports, and poten
    sudo apt install gvm
    sudo gvm-setup
    sudo gvm-start
+   ```
 
 2. Accessed GVM UI: https://localhost:9392
 
@@ -37,10 +38,12 @@ and analyze the scan reports to identify exposed services, open ports, and poten
 
 5. Exported reports (HTML + screenshots).
 
+---
+
 ## 🖥️ Scan Results
-+--------------------------------------+-----------------+---------------+-------------+
-| System Scanned | IP Type              | Vulnerabilities | Exposed Ports | Result      |
-+---------------+----------------------+-----------------+---------------+-------------+
-| macOS Host    | Real IP (192.168.x.x) | None            | 0             | ✅ Secure  |
-| Kali Linux VM | Real IP (192.168.x.x) | None            | 0             | ✅ Secure  |
-+---------------+----------------------+-----------------+---------------+-------------+
+
+| System Scanned | IP Type | Vulnerabilities | Exposed Ports | Result |
+|----------------|---------|-----------------|---------------|--------|
+| macOS Host | Real IP (192.168.x.x) | None | 0 | ✅ Secure |
+| Kali Linux VM | Real IP (192.168.x.x) | None | 0 | ✅ Secure |
+
