@@ -1,6 +1,6 @@
 # 🧩 Task 3 — Basic Vulnerability Scan (OpenVAS / GVM)
 
-A cybersecurity lab task performed during my **B.Tech in Computer Science & Engineering** to understand **basic vulnerability scanning** using **OpenVAS (Greenbone Vulnerability Manager)**.
+A cybersecurity lab task performed to understand **basic vulnerability scanning** using **OpenVAS (Greenbone Vulnerability Manager)**.
 
 ---
 
